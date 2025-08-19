@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm DavidAureliusT 👋
 
-<!--
-**DavidAureliusT/DavidAureliusT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | JavaScript Enthusiast | Web Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+Build, Debug, Deliver – 🧩  
+Fan of object-oriented programming → because spaghetti belongs on a plate, not in code.
+
+---
+
+### 🛠 Top Skills
+- **JavaScript**
+- **Web Development**
+- Object-Oriented Programming
+
+---
+
+### 🌟 Favorite Project
+[Quesera.com](https://github.com/DavidAureliusT/quesera)
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidaurelius/)
+
+---
+
+<!-- Simple. Clear. Effective. -->
