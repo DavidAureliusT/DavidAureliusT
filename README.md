@@ -18,7 +18,6 @@ Fan of object-oriented programming → because spaghetti belongs on a plate, not
 ---
 
 ### 🌟 Favorite Project
-[Quesera.com](https://github.com/DavidAureliusT/quesera)
 
 ---
 
