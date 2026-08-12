@@ -1,3 +1,3 @@
 # Hi, I'm DavidAureliusT 👋
 
-**AI-Native Engineer**
+Let's makes solutions that make sense 
